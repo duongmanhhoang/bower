@@ -1,0 +1,11 @@
+{
+  "name": "bower",
+    "authors": [
+    "Dương Mạnh Hoàng <manhhoang3151996@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/duongmanhhoang/bower.git",
+  "ignore": [
+     "README.md"
+  ]
+}
